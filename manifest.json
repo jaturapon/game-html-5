@@ -1,0 +1,18 @@
+﻿{
+	"name": "NyanHack",
+	"description": "A funny lil game",
+	"version": "1.0",
+	"app": {
+		"launch": {
+			"local_path": "index.html"
+		}
+	},
+	"icons": {
+		"16": "icon_16.png",
+		"128": "icon_128.png"
+	},
+	"permissions": [
+		"unlimitedStorage"
+	],
+	"offline_enabled": true
+}
